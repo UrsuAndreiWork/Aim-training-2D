@@ -1,0 +1,6 @@
+peste.png
+Porg.png
+sarpe.jpg
+pisica.jpg
+gnar.png
+face.jpg

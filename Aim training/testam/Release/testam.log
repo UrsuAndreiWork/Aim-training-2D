@@ -1,0 +1,40 @@
+﻿  Main.cpp
+C:\Users\Andrew\source\repos\testam\testam\Main.cpp(93,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrew\source\repos\testam\testam\Main.cpp(96,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrew\source\repos\testam\testam\Main.cpp(99,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrew\source\repos\testam\testam\Main.cpp(99,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrew\source\repos\testam\testam\Main.cpp(108,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrew\source\repos\testam\testam\Main.cpp(111,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrew\source\repos\testam\testam\Main.cpp(113,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrew\source\repos\testam\testam\Main.cpp(113,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrew\source\repos\testam\testam\Main.cpp(118,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrew\source\repos\testam\testam\Main.cpp(121,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrew\source\repos\testam\testam\Main.cpp(123,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrew\source\repos\testam\testam\Main.cpp(123,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrew\source\repos\testam\testam\Main.cpp(130,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrew\source\repos\testam\testam\Main.cpp(132,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrew\source\repos\testam\testam\Main.cpp(134,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrew\source\repos\testam\testam\Main.cpp(134,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrew\source\repos\testam\testam\Main.cpp(140,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrew\source\repos\testam\testam\Main.cpp(142,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrew\source\repos\testam\testam\Main.cpp(144,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrew\source\repos\testam\testam\Main.cpp(144,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrew\source\repos\testam\testam\Main.cpp(149,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrew\source\repos\testam\testam\Main.cpp(151,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrew\source\repos\testam\testam\Main.cpp(153,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrew\source\repos\testam\testam\Main.cpp(153,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrew\source\repos\testam\testam\Main.cpp(363,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrew\source\repos\testam\testam\Main.cpp(363,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrew\source\repos\testam\testam\Main.cpp(371,93): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Andrew\source\repos\testam\testam\Main.cpp(370,96): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Andrew\source\repos\testam\testam\Main.cpp(403,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrew\source\repos\testam\testam\Main.cpp(403,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrew\source\repos\testam\testam\Main.cpp(805,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Andrew\source\repos\testam\testam\Main.cpp(835,17): warning C4101: 'i': unreferenced local variable
+C:\Users\Andrew\source\repos\testam\testam\Main.cpp(835,15): warning C4101: 'j': unreferenced local variable
+  Generating code
+  17 of 501 functions ( 3.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  testam.vcxproj -> C:\Users\Andrew\source\repos\testam\Release\testam.exe
